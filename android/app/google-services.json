@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949967716494",
+    "firebase_url": "https://mbaca-berita.firebaseio.com",
+    "project_id": "mbaca-berita",
+    "storage_bucket": "mbaca-berita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949967716494:android:d407ea11b2f1301c3709df",
+        "android_client_info": {
+          "package_name": "com.udacoding.news_flutterapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949967716494-chi53v6hk26h7t4jphap3bku4s911op6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacoding.news_flutterapps",
+            "certificate_hash": "e5348ea9585b4417dcec65a21a90dc4aed779914"
+          }
+        },
+        {
+          "client_id": "949967716494-5ljigh6rbb69ff6a2o3df9i73u8plps4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBeCME8HgPi9zV-tDL2r38ea-uw4OOzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949967716494-5ljigh6rbb69ff6a2o3df9i73u8plps4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
